@@ -17,7 +17,7 @@ app.js
 Launching instructions:
 -----------------------
 
-1. Open terminal and traverse to folder when app.js is located
+1. Open terminal and traverse to folder where app.js is located
 2. Type "node app.js" into the terminal
 3. Now open your browser(preferably Chrome where this was tested).
 4. Type in http://localhost:2406/ into the address bar and you will now be on the site
