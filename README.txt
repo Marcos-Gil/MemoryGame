@@ -13,6 +13,12 @@ List of Sources:
 ----------------
 
 app.js
+404.html
+gameLogic.js
+index.html
+makeBoard.js
+style.css
+
 
 Launching instructions:
 -----------------------
